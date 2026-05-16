@@ -1,4 +1,4 @@
-# 
+# Polymarket professional Strategy: take-profit-orders & portfolio-optimization offers the most advanced Polymarket strategy, with take-profit-orders and portfolio-optimization.
 
 
 
